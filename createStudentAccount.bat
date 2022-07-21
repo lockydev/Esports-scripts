@@ -1,0 +1,1 @@
+net user Student password /add /passwordchg:no
